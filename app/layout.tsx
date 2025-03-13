@@ -10,6 +10,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "Innovación Tecnológica SK",
   description: "Soluciones tecnológicas integrales para empresas en República Dominicana",
+    generator: 'v0.dev'
 }
 
 export default function RootLayout({
@@ -30,3 +31,6 @@ export default function RootLayout({
   )
 }
 
+
+
+import './globals.css'
