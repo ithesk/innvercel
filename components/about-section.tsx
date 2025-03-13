@@ -75,7 +75,7 @@ export function AboutSection() {
               <motion.div variants={itemVariants} className="flex items-start gap-3">
                 <CheckCircle className="h-6 w-6 text-blue-600 mt-0.5 flex-shrink-0" />
                 <p className="text-slate-700 dark:text-slate-300">
-                  Más de 5 años de experiencia en el sector tecnológico
+                  Más de 12 años de experiencia en el sector tecnológico
                 </p>
               </motion.div>
 
