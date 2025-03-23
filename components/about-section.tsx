@@ -41,7 +41,7 @@ export function AboutSection() {
           >
             <div className="relative aspect-video overflow-hidden rounded-xl shadow-xl">
               <Image
-                src="public/imagenit.webp?height=600&width=800"
+                src="/imagenit.webp?height=600&width=800"
                 alt="Oficina de Matrix Innovación Tecnológica"
                 width={800}
                 height={600}
