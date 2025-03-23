@@ -16,7 +16,7 @@ const projects = [
     client: "Empresa de Logística",
     description:
       "Implementación de una infraestructura de red completa con servidores virtualizados y sistemas de respaldo.",
-    image: "/proxmoxve.png?height=400&width=600",
+    image: "/Proxmoxve.png?height=400&width=600",
   },
   {
     category: "automatizacion",
