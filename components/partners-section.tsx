@@ -9,7 +9,7 @@ export function PartnersSection() {
   const isInView = useInView(ref, { once: true, amount: 0.2 })
 
   const partners = [
-    { name: "Microsoft", logo: "/placeholder.svg?height=80&width=200" },
+    { name: "Ubuntu", logo: "/ubuntu.jpeg?height=80&width=200" },
     { name: "Cisco", logo: "/cisco.png?height=80&width=200" },
     { name: "Dell", logo: "/placeholder.svg?height=80&width=200" },
     { name: "HP", logo: "/placeholder.svg?height=80&width=200" },

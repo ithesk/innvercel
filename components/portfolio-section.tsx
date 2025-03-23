@@ -16,7 +16,7 @@ const projects = [
     client: "Empresa de Logística",
     description:
       "Implementación de una infraestructura de red completa con servidores virtualizados y sistemas de respaldo.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/proxmoxve.png?height=400&width=600",
   },
   {
     category: "automatizacion",
@@ -37,7 +37,7 @@ const projects = [
     title: "Plataforma de Gestión Empresarial",
     client: "Cadena de Retail",
     description: "Desarrollo de software personalizado para la gestión integral de inventario y ventas.",
-    image: "/?height=400&width=600",
+    image: "software.jpeg/?height=400&width=600",
   },
   {
     category: "infraestructura",
