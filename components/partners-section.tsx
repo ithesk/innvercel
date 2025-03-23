@@ -10,11 +10,11 @@ export function PartnersSection() {
 
   const partners = [
     { name: "Microsoft", logo: "/placeholder.svg?height=80&width=200" },
-    { name: "Cisco", logo: "/placeholder.svg?height=80&width=200" },
+    { name: "Cisco", logo: "/cisco.png?height=80&width=200" },
     { name: "Dell", logo: "/placeholder.svg?height=80&width=200" },
     { name: "HP", logo: "/placeholder.svg?height=80&width=200" },
-    { name: "IBM", logo: "/placeholder.svg?height=80&width=200" },
-    { name: "Oracle", logo: "/placeholder.svg?height=80&width=200" },
+    { name: "Hass", logo: "/logohass.png?height=80&width=200" },
+    { name: "Proxmox", logo: "/proxmox.png?height=80&width=200" },
   ]
 
   return (
