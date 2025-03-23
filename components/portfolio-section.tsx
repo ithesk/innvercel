@@ -45,14 +45,14 @@ const projects = [
     client: "Institución Financiera",
     description:
       "Diseño e implementación de un centro de datos modular con sistemas redundantes de energía y refrigeración.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/minidata.png.webp?height=400&width=600",
   },
   {
     category: "automatizacion",
     title: "Chatbot con IA para Atención al Cliente",
     client: "Empresa de Telecomunicaciones",
     description: "Desarrollo de un chatbot inteligente para mejorar la experiencia de atención al cliente.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/ai.webp?height=400&width=600",
   },
 ]
 
