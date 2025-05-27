@@ -12,8 +12,6 @@ export function PartnersSection() {
     { name: "VEEAM", logo: "/VVAR.png?height=80&width=200" },
     { name: "Ubuntu", logo: "/ubuntu.jpeg?height=80&width=200" },
     { name: "Cisco", logo: "/cisco.png?height=80&width=200" },
-    { name: "Dell", logo: "/placeholder.svg?height=80&width=200" },
-    { name: "HP", logo: "/placeholder.svg?height=80&width=200" },
     { name: "Hass", logo: "/logohass.png?height=80&width=200" },
     { name: "Proxmox", logo: "/proxmox.png?height=80&width=200" },
   ]
