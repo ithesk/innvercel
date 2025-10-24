@@ -10,6 +10,7 @@ export function PartnersSection() {
 
   const partners = [
     { name: "VEEAM", logo: "/VVAR.png?height=80&width=200" },
+    { name: "fortinet", logo: "/Fortinet.svg?height=80&width=200"},
     { name: "Ubuntu", logo: "/ubuntu.jpeg?height=80&width=200" },
     { name: "Cisco", logo: "/cisco.png?height=80&width=200" },
     { name: "Hass", logo: "/logohass.png?height=80&width=200" },
